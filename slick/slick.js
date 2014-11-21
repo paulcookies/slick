@@ -2114,4 +2114,6 @@
         return s;
     };
 
+    return Slick;
+
 }));
